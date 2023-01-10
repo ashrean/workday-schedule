@@ -28,6 +28,7 @@ $(document).ready(function(){
 
   $(".saveBtn").click(function(event){
     event.preventDefault();
+    console.log(this)
     var value = $(this).siblings(".time-blocck").val();
     var time = $(this).parent().attr("id").split("-")[1];
     localStorage.setItem(time,value);

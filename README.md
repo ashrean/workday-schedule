@@ -24,9 +24,9 @@ This project was to create a daily schedule to help keep track of your day-to-da
 7. Type code . (make sure to add space between the code and the period) and VS Code will automatically open it up for you.
 
 # Github Account
-URl ->
+URl -> https://github.com/ashrean
 
-Deployed Link ->
+Deployed Link -> https://ashrean.github.io/workday-schedule/
 
 # Contacts
 Email -> sese.ashrean@gmail.com
