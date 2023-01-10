@@ -35,7 +35,7 @@ Linkedin -> https://www.linkedin.com/in/ashleyrean/
 
 
 # Code Snippets
-  $(".time-div").each(function(){
+    $(".time-div").each(function(){
   var timeDiv = $(this).attr("id").split("-")[1];
 
   if (hourNow == timeDiv) {
