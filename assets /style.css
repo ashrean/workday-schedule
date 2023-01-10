@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+  }
+
+  textarea {
+    background: transparent;
+    border: none;
+    resize: none;
+    color: #000000;
+    border-left: 1px solid black;
+    padding: 10px;
+  }
+
+  .description {
+    white-space: pre-wrap;
+  }
+
+  .time-block {
+    border-radius: 15px;
+  }
+
+  .row {
+    border-top: 1px solid white;
+  }
+
+  .hour {
+    background-color: #ffffff;
+    color: #000000;
+    border-top: 1px solid #000000;
+    font-size: larger;
+  }
+
+  .past {
+    background-color: #d3d3d3;
+    color: white;
+  }
+
+  .present {
+    background-color: #a2b3eb;
+    color: white;
+  }
+
+  .future {
+    background-color: #b2e8be;
+    color: white;
+  }
+
+  .saveBtn {
+    border-left: 1px solid black;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background-color: #8b0ddf;
+    color: rgb(242, 240, 248);
+  }
+
+  .saveBtn i:hover {
+    font-size: 20px;
+    transition: all 0.3s ease-in-out;
+  }
